@@ -1,38 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# PAM: Segurança de Acessos Privilegiados na Era da IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um experimento criativo e educacional em que todo o conteúdo é desenvolvido com Inteligência Artificial. O tema escolhido é Privileged Access Management (PAM), um dos pilares mais importantes da segurança da informação na era digital.
+A ideia é mostrar como as IAs generativas podem apoiar a criação de uma biblioteca multimídia de conhecimento sobre PAM, explorando textos, imagens, vídeos, apresentações e materiais de conscientização.
+Mais do que falar de segurança de acessos privilegiados, este projeto também ilustra como a própria IA pode ser usada como ferramenta de produção de conteúdo técnico, transformando pesquisa, explicação e design em um fluxo automatizado e criativo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+- Gamma AI
+- Chat GPT
+- 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um acervo de materiais originais sobre PAM e IA, disponível em diversos formatos (documentos, imagens, vídeos e apresentações).
+- Conteúdo educativo e aplicável, que pode ser usado em treinamentos, palestras e workshops de conscientização em segurança.
+- Um guia atualizado que conecta PAM às principais tendências de segurança, incluindo Zero Trust, compliance regulatório e detecção inteligente de anomalias com IA.
+Conscientização ampliada sobre a importância da proteção de acessos privilegiados em um cenário de ataques cada vez mais sofisticados com apoio de IA.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
