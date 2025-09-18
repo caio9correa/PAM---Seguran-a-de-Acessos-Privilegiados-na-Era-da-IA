@@ -16,11 +16,4 @@ Descreva como você criou o conteúdo
 ## 🚀 Resultados
 - Um acervo de materiais sobre PAM e IA (PDF, VIDEO e APRESENTAÇÕES).
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-
-
-
-
-## Links Interessantes
 
