@@ -30,7 +30,7 @@ A apresentação entrega uma visão prática e estratégica sobre:
 - **Boas práticas e frameworks**: Zero Trust, NIST, ISO 27001 e conformidade regulatória;  
 - **Tendências futuras**: PAM adaptativo, autônomo e integrado a SOCs.  
 
-📊 [**Clique aqui para acessar a apresentação**](COLOQUE_O_LINK_AQUI)
+📊 [**Clique aqui para acessar a apresentação**](https://github.com/digitalinnovationone/lab-natty-or-not/issues/294#issue-3428260276)
 
 ---
 
