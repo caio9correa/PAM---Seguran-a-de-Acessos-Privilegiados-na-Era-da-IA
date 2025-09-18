@@ -20,4 +20,4 @@ O **Privileged Access Management (PAM)** protege contas com acesso crítico, gar
 ## 🚀 Resultados  
 O vídeo apresenta de forma clara e objetiva como o **PAM** contribui para a **cibersegurança**, protegendo credenciais críticas e reduzindo riscos de acessos não autorizados.  
 
-👉 [Acesse o Video clicando aqui]([https://github.com/user-attachments/assets/f8889e82-0307-4ab9-953a-b5a78fc76f23](https://github.com/digitalinnovationone/lab-natty-or-not/issues/293#issue-3428250704)) 
+👉 [Acesse o Video clicando aqui](https://github.com/digitalinnovationone/lab-natty-or-not/issues/293#issue-3428250704) 
