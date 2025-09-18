@@ -25,7 +25,7 @@ O e-book apresenta uma visão clara e prática sobre:
 - **Boas práticas** de PAM com IA (Zero Trust, MFA, cofres de senhas, integração com SIEM);  
 - Benefícios para organizações, tendências futuras e recomendações.  
 
-📖 [**Clique aqui para acessar o e-book**](COLOQUE_O_LINK_AQUI)
+📖 [**Clique aqui para acessar o e-book**](https://github.com/digitalinnovationone/lab-natty-or-not/issues/292#issue-3428248908)
 
 ---
 
