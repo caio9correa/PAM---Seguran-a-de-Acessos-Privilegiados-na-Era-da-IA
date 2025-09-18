@@ -18,4 +18,6 @@ Descreva como você criou o conteúdo
 
 ## 🔗 Links do acervo
 
+https://github.com/caio9correa/PAM-IA/blob/df723a0159550eea1259c271f857e556e7e2174e/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md
+
 
