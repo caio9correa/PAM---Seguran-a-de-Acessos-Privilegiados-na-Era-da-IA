@@ -18,8 +18,8 @@ Descreva como você criou o conteúdo
 
 ## 🔗 Links do acervo
 
-- [**Clique aqui para acessar a apresentação**]([https://github.com/digitalinnovationone/lab-natty-or-not/issues/294#issue-3428260276](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md)
+- [**Clique aqui para acessar a apresentação**](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md)
 
-- [**Clique aqui para acessar o Ebook**]([[https://github.com/digitalinnovationone/lab-natty-or-not/issues/294#issue-3428260276](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md](https://github.com/caio9correa/PAM-IA/blob/8390467569b0eba845d1debfcdcf2bd21b483547/Acervo/Ebook%20-%20PAM%20na%20era%20da%20IA.md)
+- [**Clique aqui para acessar o Ebook**](https://github.com/caio9correa/PAM-IA/blob/8390467569b0eba845d1debfcdcf2bd21b483547/Acervo/Ebook%20-%20PAM%20na%20era%20da%20IA.md)
 
-- [**Clique aqui para acessar o Video**]([https://github.com/digitalinnovationone/lab-natty-or-not/issues/294#issue-3428260276](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md)
+- [**Clique aqui para acessar o Video**](https://github.com/caio9correa/PAM-IA/blob/fbee9a028d23e17fd786c3101a88415b4636d47f/Acervo/Apresenta%C3%A7%C3%A3o%20-%20PAM%20na%20era%20da%20IA.md](https://github.com/caio9correa/PAM-IA/blob/4d6e2992c57298ccc7e26fafa81f0c21984f4e11/Acervo/Video%20-%20PAM%20na%20era%20da%20IA.md)
